@@ -1,6 +1,6 @@
 # Hi there, BracoZS here! 👋
 - 🖱️I'm working on something cool.
-- I'm currently learning [.NET](https://dotnet.microsoft.com/en-us/) technologies
+- #️⃣ I'm currently learning [.NET](https://dotnet.microsoft.com/en-us/) technologies
 - 💬 Ask me about C#
 - 📫 How to reach me: @bracozs on Telegram and Discord
 

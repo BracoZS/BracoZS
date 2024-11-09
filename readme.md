@@ -1,7 +1,8 @@
 # Hi there, BracoZS here! 👋
 - 🖱️I'm working on something cool.
 - I'm currently learning [.NET](https://dotnet.microsoft.com/en-us/) technologies
-- 
+- 💬 Ask me about C#
+- 📫 How to reach me: @bracozs on Telegram and Discord
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bracozs&show_icons=true&locale=en&layout=compact" alt="bracozs" /></p>
